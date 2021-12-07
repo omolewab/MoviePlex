@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MoviePlex Application</string>
+
+    <!--Login Page Strings-->
+    <string name="EmailHint">Email</string>
+    <string name="PasswordHint">Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="signUpButton">SIGN UP</string>
+
+    <!--Sign Up Page Strings-->
+    <string name="SignUpHeader">With a MoviePlex account you can order tickets, view cinemas nearby and much more.</string>
+    <string name="NewEmail">Email*</string>
+    <string name="NewPasswordHint">Choose a password*</string>
+    <string name="NewPassword">Confirm password*</string>
+    <string name="NewAccountFName">First Name*</string>
+    <string name="NewAccountLName">Last Name*</string>
+    <string name="NewSignUpButton">Create an Account</string>
+
+    <!--Contact Page Strings-->
+    <string name="ContactUsHeader">We are always available to answer any query or make your purchase seamless. Below are various channels to get in touch with us.</string>
+    <string name="ContactEmail">Email</string>
+    <string name="ContactName">Full Name</string>
+    <string name="ContactMessage">Message</string>
+    <string name="ContactButton">Send Message</string>
+    <string name="ContactUsEmail">support@movieplex.com</string>
+    <string name="ContactNumber">1 519 345 2222</string>
+    <string name="ContactAddress">34 Bridgetown Avenue, ON, Toronto N2H 2U4. Canada</string>
+</resources>
